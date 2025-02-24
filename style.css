@@ -100,12 +100,12 @@ a{
 
 .container .grid .card-1{
     background-color: #C1B6F8;
-    background-image: url(/resources/person_1.png);
+    background-image: url(./resources/person_1.png);
 }
 
 .container .grid .card-2{
     background-color: #EDACD2;
-    background-image: url(/resources/person_2.png);
+    background-image: url(./resources/person_2.png);
     border-top-right-radius: 1.5rem;
 }
 
@@ -129,7 +129,7 @@ a{
 } */
 .container .grid .card-3{
     background-color: #9DC4F8;
-    background-image: url(/resources/person_3.png)
+    background-image: url(./resources/person_3.png)
 }
 
 .container .grid .card-4{
@@ -139,7 +139,7 @@ a{
 
 .container .grid .card-5{
     background-color: #86E7D4;
-    background-image: url(/resources/person_5.png);
+    background-image: url(./resources/person_5.png);
     border-bottom-right-radius: 1.5rem;
 }
 
